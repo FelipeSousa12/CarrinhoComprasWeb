@@ -1,0 +1,66 @@
+{
+      "stock": [
+        {
+          "id": 1,
+          "amount": 3
+        },
+        {
+          "id": 2,
+          "amount": 5
+        },
+        {
+          "id": 3,
+          "amount": 2
+        },
+        {
+          "id": 4,
+          "amount": 1
+        },
+        {
+          "id": 5,
+          "amount": 5
+        },
+        {
+          "id": 6,
+          "amount": 10
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Tênis NIKE Pro",
+          "price": 179.9,
+          "image": "https://nikys-ecomitizellc.netdna-ssl.com/media/catalog/product/cache/1/image/670x670/9df78eab33525d08d6e5fb8d27136e95/t/i/tiempox-legend-vii-academy-turf-soccer-cleat-rernzr.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Tênis VR Caminhada Couro Masculino",
+          "price": 139.9,
+          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Tênis Adidas Duramo Lite 2.0",
+          "price": 219.9,
+          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Tênis Adidas Prateado Branco",
+          "price": 139.9,
+          "image": "https://img.favpng.com/8/9/25/adidas-stan-smith-adidas-superstar-adidas-originals-sneakers-png-favpng-QnAAA1f6awKYc45E2LHNhmQHv.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Tênis Marca Puma 1.0",
+          "price": 219.9,
+          "image": "https://www.pngitem.com/pimgs/m/218-2188902_men-s-esito-finale-tt-turf-soccer-shoes.png"
+        },
+        {
+          "id": 4,
+          "title": "Tênis de Caminhada Leve Confortável",
+          "price": 179.9,
+          "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+        }
+      ]
+}
